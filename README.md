@@ -14,7 +14,8 @@ The project includes 2 files:
 
 ## Database Schema
 
-**Note** The database called `rocket_spark` has already been created and has all the tables and data for you to begin this exercise.This database is a star schema that has been modeled and optimized for analytics.
+**Note** The database called `rocket_spark` is postgres RDMS that has all the tables and data for you to begin this exercise.It is star schema that has been modeled and optimized for analytics.
+`songplays` is the fact table and while `users, artists, songs, time` are dimensions tables.  
 
 ### Tables in the Database
 
@@ -88,10 +89,11 @@ Steps to complete this exercise:
 #### Expections
 
 1. Ensure your all your sql statements are running without any errors.
-2. Make use of Subqueries, Aggregations, Conditionals, JOINS,  SQL functions and any other SQL(DML) where neccesary and relevant to the question being asked.
-3. Note for some questions you may need to write more than one sql statement to arrive to the answer and feel free to show all of those steps in your notebook.
-4. Use any workspace of your choice -- jupyter notebooks , googlecolab, pycharm etc however once your are done push your work to your github repository where your work can be accessed.
-5. **_Optional_** Visualize your data using matplotlib,pandas and any other libraries
+2. Insert comments where neccesary to justify and explain your approach.
+3. Make use of Subqueries, Aggregations, Conditionals, JOINS,  SQL functions and any other SQL(DML) where neccesary and relevant to the question being asked.
+4. Note for some questions you may need to write more than one sql statement to arrive to the answer and feel free to show all of those steps in your notebook.
+5. Use any workspace of your choice -- jupyter notebooks , googlecolab, pycharm etc however once your are done push your work to your github repository where your work can be accessed.
+6. **_Optional_** Visualize your data using matplotlib,pandas and any other libraries
 
 
   ****************************************** **Good Luck** ******************************************
