@@ -78,10 +78,10 @@ duration    | double precision
 
 #### Instructions
 
-The steps to complete this exercise:
+Steps to complete this exercise:
 
 1. The `queries.ipynb` notebook has a predefined script that connects to a remote postgres database which contains all the data you need to carry out this exercise.
-3. Run the cells to open connection to the `rocket spark` database.
+3. Run the first two cells to open connection to the `rocket spark` database.
 4. There are five questions: respond to all the questions  with sql queries and python scripts that answers the questions in the notebook.
 5. Once you are done  run the last cell to close connection to the database
 
@@ -90,5 +90,5 @@ The steps to complete this exercise:
 1. Make use of Subqueries, Aggregations, Conditionals, JOINS,  SQL functions and any other SQL(DML) where neccesary and relevant to the question being asked.
 2. Note for some questions you may need to write more than one sql statement to arrive to the answer and feel free to show all of those steps in your notebook.
 3. Use any workspace of your choice -- jupyter notebooks , googlecolab, pycharm etc however once your are done push your work to your github repository where your resolution can be accessed.
-
+4. **_Optional_** Visualize your data using matplotlib and pandas and any other libraries
 ****************************************** **Good Luck** ******************************************
