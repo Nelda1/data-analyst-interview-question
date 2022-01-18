@@ -1,4 +1,4 @@
-# Data Anaylsis Interview Question 
+# Data Analyst Interview Question 
 
 ## Introduction
 
@@ -89,6 +89,6 @@ Steps to complete this exercise:
 
 1. Make use of Subqueries, Aggregations, Conditionals, JOINS,  SQL functions and any other SQL(DML) where neccesary and relevant to the question being asked.
 2. Note for some questions you may need to write more than one sql statement to arrive to the answer and feel free to show all of those steps in your notebook.
-3. Use any workspace of your choice -- jupyter notebooks , googlecolab, pycharm etc however once your are done push your work to your github repository where your resolution can be accessed.
+3. Use any workspace of your choice -- jupyter notebooks , googlecolab, pycharm etc however once your are done push your work to your github repository where your work can be accessed.
 4. **_Optional_** Visualize your data using matplotlib and pandas and any other libraries
 ****************************************** **Good Luck** ******************************************
