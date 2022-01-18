@@ -14,11 +14,11 @@ The project includes 2 files:
 
 ## Database Schema
 
-**Note** The database called `rocket_spark` has already been created and has all the tables and data for you to begin this exercise.This database is a star schema that has been modeled and optimized for anayalytics.
+**Note** The database called `rocket_spark` has already been created and has all the tables and data for you to begin this exercise.This database is a star schema that has been modeled and optimized for analytics.
 
 ### Tables in the Database
 
-1. `users` this table holds all the names of users using the music app
+1. `users`  holds all the names of users using the music app
 
 Column Name  | Column Type
 ------------- | -------------
@@ -29,7 +29,7 @@ gender      | character varying
 users       | character varying
 level       | character varying
 
-2. `artists`
+2. `artists` 
 
 Column Name  | Column Type
 ------------- | -------------
@@ -82,13 +82,16 @@ Steps to complete this exercise:
 
 1. The `queries.ipynb` notebook has a predefined script that connects to a remote postgres database which contains all the data you need to carry out this exercise.
 3. Run the first two cells to open connection to the `rocket spark` database.
-4. There are five questions: respond to all the questions  with sql queries and python scripts that answers the questions in the notebook.
+4. There are five questions: respond to all the questions  with sql queries and python scripts that will be tested to assess your response.
 5. Once you are done  run the last cell to close connection to the database
 
 #### Expections
 
-1. Make use of Subqueries, Aggregations, Conditionals, JOINS,  SQL functions and any other SQL(DML) where neccesary and relevant to the question being asked.
-2. Note for some questions you may need to write more than one sql statement to arrive to the answer and feel free to show all of those steps in your notebook.
-3. Use any workspace of your choice -- jupyter notebooks , googlecolab, pycharm etc however once your are done push your work to your github repository where your work can be accessed.
-4. **_Optional_** Visualize your data using matplotlib and pandas and any other libraries
-****************************************** **Good Luck** ******************************************
+1. Ensure your all your sql statements are running without any errors.
+2. Make use of Subqueries, Aggregations, Conditionals, JOINS,  SQL functions and any other SQL(DML) where neccesary and relevant to the question being asked.
+3. Note for some questions you may need to write more than one sql statement to arrive to the answer and feel free to show all of those steps in your notebook.
+4. Use any workspace of your choice -- jupyter notebooks , googlecolab, pycharm etc however once your are done push your work to your github repository where your work can be accessed.
+5. **_Optional_** Visualize your data using matplotlib,pandas and any other libraries
+
+
+  ****************************************** **Good Luck** ******************************************
