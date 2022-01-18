@@ -1,9 +1,9 @@
-# Data Analyst Interview Question 
+# Business Data Analyst Interview Question 
 
 ## Introduction
 
 A startup called Rocket Spark wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The Marketing  Team is particularly interested in understanding what songs users are listening to. 
-They'd like a data analyst to provide insights and analytics into the data they have.This exercise has been setup to test your SQL knowledge and Analytical skillsets.
+They'd like a Business Data Analyst to provide insights and analytics into the data they have.This exercise has been setup to test your SQL knowledge and Analytical skillsets.
 ## Files
 
 The project includes 2 files:
