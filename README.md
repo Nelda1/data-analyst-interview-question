@@ -9,7 +9,7 @@ They'd like a Business Data Analyst to provide insights and analytics into the d
 The project includes 2 files:
 
 
-1. `queries.ipynb` this file contains all the questions the rocket spark has for you and where you are going to fill in corresponding sql queries.
+1. `queries_sql.ipynb` this file contains all the questions the rocket spark has for you and where you are going to fill in corresponding sql queries.
 2. `README.md`  provides an introduction  and all you need to know abount this practical test.
 
 ## Database Schema
@@ -81,7 +81,7 @@ duration    | double precision
 
 Steps to complete this exercise:
 
-1. The `queries.ipynb` notebook has a predefined script that connects to a remote postgres database which contains all the data you need to carry out this exercise.
+1. The `queries_sql.ipynb` notebook has a predefined script that connects to a remote postgres database which contains all the data you need to carry out this exercise.
 3. Run the first two cells to open connection to the `rocket spark` database.
 4. There are five questions: respond to all the questions  with sql queries and python scripts that will be tested to assess your response.
 5. Once you are done  run the last cell to close connection to the database
